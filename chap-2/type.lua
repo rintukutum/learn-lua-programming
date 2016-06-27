@@ -4,3 +4,8 @@
 ]]
 
 print(type("Hello World!"))
+
+--[[
+command: luajit type.lua
+output: string 
+]]
