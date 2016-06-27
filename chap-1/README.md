@@ -2,7 +2,7 @@ chapter 1
 =========
 - hello world
 - ao
-- funnction
+- function
 - comment
 - global variable
 
